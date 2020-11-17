@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 我的博客</title>
+    <link>https://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on 我的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 16 Nov 2020 22:22:02 +0800</lastBuildDate><atom:link href="https://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>grpc那些事</title>
+      <link>https://localhost:1313/post/grpc/</link>
+      <pubDate>Mon, 16 Nov 2020 22:22:02 +0800</pubDate>
+      
+      <guid>https://localhost:1313/post/grpc/</guid>
+      <description>grpc那些事</description>
+    </item>
+    
+  </channel>
+</rss>

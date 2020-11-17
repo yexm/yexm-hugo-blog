@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我的博客</title>
+    <link>https://localhost:1313/</link>
+    <description>Recent content on 我的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 17 Nov 2020 17:18:29 +0800</lastBuildDate><atom:link href="https://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>https://localhost:1313/post/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Tue, 17 Nov 2020 17:18:29 +0800</pubDate>
+      
+      <guid>https://localhost:1313/post/%E6%B5%8B%E8%AF%95/</guid>
+      <description>这是测试</description>
+    </item>
+    
+    <item>
+      <title>grpc那些事</title>
+      <link>https://localhost:1313/post/grpc/</link>
+      <pubDate>Mon, 16 Nov 2020 22:22:02 +0800</pubDate>
+      
+      <guid>https://localhost:1313/post/grpc/</guid>
+      <description>grpc那些事</description>
+    </item>
+    
+    <item>
+      <title>第一篇博客</title>
+      <link>https://localhost:1313/post/first/</link>
+      <pubDate>Mon, 16 Nov 2020 22:22:02 +0800</pubDate>
+      
+      <guid>https://localhost:1313/post/first/</guid>
+      <description>这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客这是我的第一篇博客
+这是我的第一篇博客这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客这是我的第一篇博客
+这是我的第一篇博客这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客这是我的第一篇博客
+这是我的第一篇博客这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客这是我的第一篇博客
+这是我的第一篇博客这是我的第一篇博客 这是我的第一篇博客
+这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客这是我的第一篇博客 这是我的第一篇博客 这是我的第一篇博客</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://localhost:1313/about/about/</link>
+      <pubDate>Mon, 16 Nov 2020 22:11:47 +0800</pubDate>
+      
+      <guid>https://localhost:1313/about/about/</guid>
+      <description>]fdfdf</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://localhost:1313/categories/%E6%8A%80%E6%9C%AF/about/</link>
+      <pubDate>Mon, 16 Nov 2020 22:11:47 +0800</pubDate>
+      
+      <guid>https://localhost:1313/categories/%E6%8A%80%E6%9C%AF/about/</guid>
+      <description>]fdfdf</description>
+    </item>
+    
+  </channel>
+</rss>
