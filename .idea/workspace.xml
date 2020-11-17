@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5903e473-fbab-4bbc-b787-f9b0cc414b51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/content/categories/技术/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/first.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/first.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/第一篇博客.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/maupassant-hugo/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/maupassant-hugo/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/maupassant-hugo/layouts/partials/comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/maupassant-hugo/layouts/partials/comments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/archetypes/default.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layouts/partials/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layouts/partials/post_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/static/img/author.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kNonVmbTFMhUnwMvAzoQAOoVZw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/maupassant-hugo/layouts/partials" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/maupassant-hugo/layouts/partials" />
+      <recent name="$PROJECT_DIR$/content/categories" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/categories" />
+      <recent name="$PROJECT_DIR$/content/categories/技术" />
+      <recent name="$PROJECT_DIR$/content/about" />
+    </key>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="200" width="596" height="522" key="find.popup" timestamp="1605553047341">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="422" y="200" width="596" height="522" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1605553047341" />
+  </component>
+</project>
